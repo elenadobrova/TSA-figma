@@ -94,7 +94,7 @@ header nav a {
 
 /* Work Process Section */
 .work-process {
-    background: #ffcccc;
+    background: #F3CACB;
     padding: 2rem;
     text-align: center;
 }
@@ -158,7 +158,7 @@ footer {
     background: #add8e6;
     color: #DC2559;
     text-align: center;
-    padding: 1rem;
+    padding: 1rem 3rem;
 }
 
 @media (max-width: 375px) {
